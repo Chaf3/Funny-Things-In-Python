@@ -1,2 +1,3 @@
-# Funny-Things-In-Python
-Try to build some funny things in Python! 
+FTIP = Funny-Things-In-Python !
+
+Try to learn, think, design and build some funny things in Python! 
